@@ -13,3 +13,20 @@ def am(num):
 
 inp=input("ENTER THE NUMBER:")
 am(inp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

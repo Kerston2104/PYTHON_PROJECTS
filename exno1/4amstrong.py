@@ -8,3 +8,22 @@ if sumofdig==num:
     print(num,"is amstrong")
 else:
     print("it is not a amstrong")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # repo created by kerston2104

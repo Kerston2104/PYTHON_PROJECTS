@@ -12,3 +12,22 @@ def perf(inp):
 
 inpu=int(input("ENTER THE NUMBER:"))
 perf(inpu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

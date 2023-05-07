@@ -7,3 +7,24 @@ while i<=inp:
     facto*=i
     i+=1
 print("THE FACTORIAL OF",inp,"is :",facto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

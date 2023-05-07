@@ -18,3 +18,20 @@ def count(string):
 string=input("ENTER THE STRING:")
 count(string)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

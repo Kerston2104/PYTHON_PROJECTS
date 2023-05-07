@@ -11,3 +11,22 @@ def happy(n):
 
 inp=input("ENTER THE NUMBER:")
 happy(inp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

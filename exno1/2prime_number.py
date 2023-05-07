@@ -10,3 +10,24 @@ if num > 1:
         print("The given number ", num, " is a prime number")
 else:
     print("The given number ", num, "is not a prime number")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # repo created by kerston2104

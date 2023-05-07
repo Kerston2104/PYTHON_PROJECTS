@@ -7,3 +7,25 @@ if inp==rev_str_inp:
     print("THE GIVEN VALUE IS A PALINEDROME")
 else:
     print("THE GIVEN VALUE IS NOT A PALINEDROME")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # repo created by kerston2104

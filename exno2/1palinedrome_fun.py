@@ -10,3 +10,21 @@ def pali(inp):
 
 inpu=input("ENTER THE NUMBER :")
 pali(inpu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104

@@ -7,3 +7,22 @@ for row in range(0,7):
             result+=' '
     result+="\n"
 print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# repo created by kerston2104
