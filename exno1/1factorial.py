@@ -1,3 +1,5 @@
+# Write a python program to find the factorial of a number using while loop
+
 inp=int(input("ENTER THE FACTORIAL NUMBER TO FIND:"))
 facto=1
 i=1
