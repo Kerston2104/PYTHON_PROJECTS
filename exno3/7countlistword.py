@@ -1,12 +1,13 @@
 # Write a Python program to find characters count of a string which are passed as list.
 
-inp=input("ENTER THE STRING: ")
-list_char=list(input("ENTER THE CHARACTER TO COUNT: "))
-count=0
-for char in inp:
-    if char in list_char:
-        count+=1
-print("THE OUTPUT IS ",count)
+string = input("Enter a string: ")
+chars = input("Enter characters to count (separated by space): ").split()
+
+char_count = {char: string.count(char) for char in chars}
+
+for char, count in char_count.items():
+    print(f"{char}: {count}")
+
 
 
 
