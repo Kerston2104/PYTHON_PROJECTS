@@ -6,6 +6,7 @@ def happy(n):
         n = sum(int(digit)**2 for digit in str(n))
         if n in track:
             print("IT IS NOT A HAPPY NUMBER")
+            return
         track.add(n)
     print("IT IS A HAPPY NUMBER")
 
