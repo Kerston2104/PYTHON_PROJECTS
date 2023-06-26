@@ -22,7 +22,7 @@ The repository consists of the following directories:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   >git clone https://github.com/Kerston2104/python-program-2nd.git
+   git clone https://github.com/Kerston2104/python-program-2nd.git
    ```
 
 2. Once you have cloned the repository, you can navigate to the specific directories of interest. Each directory contains separate Python program files corresponding to different topics or problem-solving exercises.
