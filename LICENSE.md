@@ -12,7 +12,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-This software may NOT be submitted, represented, or claimed as original work by anyone other than the author (Kerston Anto Singh) for academic, college, university, or training evaluation purposes. Any such misuse will be considered plagiarism and may result in reporting to the concerned institutions.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
